@@ -57,8 +57,18 @@
 
 	<ItemGroup>
 	  <None Remove="View\" />
+	  <None Remove="View\Category\" />
+	  <None Remove="View\Expense\" />
+	  <None Remove="View\ScanReceipt\" />
+	  <None Remove="View\User\" />
+	  <None Remove="View\Statistic\" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="View\" />
+	  <Folder Include="View\Category\" />
+	  <Folder Include="View\Expense\" />
+	  <Folder Include="View\ScanReceipt\" />
+	  <Folder Include="View\User\" />
+	  <Folder Include="View\Statistic\" />
 	</ItemGroup>
 </Project>

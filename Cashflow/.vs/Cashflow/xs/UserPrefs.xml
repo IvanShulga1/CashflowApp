@@ -2,11 +2,33 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cashflow.Maui/View/User/WelcomePage.xaml">
+    <Files>
+      <File FileName="Cashflow.Maui/View/Category/CategoryPage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/Expense/AddExpensePage.xaml" Line="13" Column="1" />
+      <File FileName="Cashflow.Maui/View/Expense/DetailsExpensePage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/Expense/ExpensePage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/ScanReceipt/ScanReceiptPage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/Statistic/StatisticPage.cs" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/User/RegistrationPage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/User/SignInPage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/User/UserPage.xaml" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/User/WelcomePage.xaml" Line="11" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Cashflow" expanded="True" />
+          <Node name="Cashflow">
+            <Node name="Cashflow.Core">
+              <Node name="ViewModels" expanded="True">
+                <Node name="Category" expanded="True" />
+                <Node name="Expense" expanded="True" />
+                <Node name="ScanReceipt" expanded="True" />
+                <Node name="Statistic" expanded="True" />
+                <Node name="User" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
