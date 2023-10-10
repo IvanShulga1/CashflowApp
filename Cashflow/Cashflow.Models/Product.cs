@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Application
+namespace Cashflow.Models
 {
 	public class Product
 	{

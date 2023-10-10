@@ -1,25 +1,20 @@
-﻿<Properties StartupConfiguration="{BC4708A5-70F9-4A5A-BBE6-5B5022026233}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Product.cs">
-    <Files>
-      <File FileName="User.cs" />
-      <File FileName="Category.cs" />
-      <File FileName="Expense.cs" />
-      <File FileName="Product.cs" Line="1" Column="1" />
-    </Files>
+﻿<Properties StartupConfiguration="{9E5C1910-92D1-49AF-95C4-8A52795D8584}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Cashflow">
-            <Node name="Cashflow.Persistence" selected="True" />
-          </Node>
+          <Node name="Cashflow" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Cashflow.Maui FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Cashflow.Models FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Cashflow.Maui FirstBuild="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.Cashflow.Models FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Cashflow.Core FirstBuild="True" />

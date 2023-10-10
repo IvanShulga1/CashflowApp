@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Models
+namespace Cashflow.Models
 {
 	public class User
 	{
