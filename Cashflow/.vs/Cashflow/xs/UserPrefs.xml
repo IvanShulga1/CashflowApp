@@ -1,25 +1,26 @@
-﻿<Properties>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{BC4708A5-70F9-4A5A-BBE6-5B5022026233}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="Product.cs">
     <Files>
-      <File FileName="User.cs" Line="1" Column="1" />
-      <File FileName="Category.cs" Line="1" Column="1" />
-      <File FileName="Expense.cs" Line="1" Column="1" />
+      <File FileName="User.cs" />
+      <File FileName="Category.cs" />
+      <File FileName="Expense.cs" />
       <File FileName="Product.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cashflow">
-            <Node name="Cashflow.Models" expanded="True" selected="True" />
+            <Node name="Cashflow.Persistence" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Cashflow.Maui FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Cashflow.Models FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Cashflow.Core FirstBuild="True" />
 </Properties>

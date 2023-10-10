@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ViewModels\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Statistic\" />
+    <None Remove="Services\Navigation\" />
+    <None Remove="Services\Expense\" />
+    <None Remove="Services\Database\" />
+    <None Remove="Services\Category\" />
+    <None Remove="Services\Authorization\" />
+    <None Remove="Services\User\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Statistic\" />
+    <Folder Include="Services\Navigation\" />
+    <Folder Include="Services\Expense\" />
+    <Folder Include="Services\Database\" />
+    <Folder Include="Services\Category\" />
+    <Folder Include="Services\Authorization\" />
+    <Folder Include="Services\User\" />
+  </ItemGroup>
+</Project>
