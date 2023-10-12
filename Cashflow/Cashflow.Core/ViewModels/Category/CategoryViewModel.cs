@@ -6,6 +6,8 @@ namespace Cashflow.Core.ViewModels
 		public CategoryViewModel()
 		{
 		}
+
+		//Create, edit, delete commands
 	}
 }
 

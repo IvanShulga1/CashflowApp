@@ -6,6 +6,10 @@ namespace Cashflow.Core.ViewModels
 		public UserViewModel()
 		{
 		}
+
+		//Logout, ChangePassword, ChangeUsername, DeleteAccount commands
+
+		//props/fields username, email
 	}
 }
 

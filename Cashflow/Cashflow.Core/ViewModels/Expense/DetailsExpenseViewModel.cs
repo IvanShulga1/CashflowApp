@@ -6,6 +6,7 @@ namespace Cashflow.Core.ViewModels
 		public DetailsViewModel()
 		{
 		}
+		//edit command
 	}
 }
 
