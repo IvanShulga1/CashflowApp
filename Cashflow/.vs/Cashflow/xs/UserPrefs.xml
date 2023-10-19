@@ -2,45 +2,44 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs">
     <Files>
-      <File FileName="Cashflow.Models/Category.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Models/Expense.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Models/Product.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Models/User.cs" Line="20" Column="1" />
-      <File FileName="Cashflow.Core/Services/Category/CategoryService.cs" Line="20" Column="1" />
-      <File FileName="Cashflow.Core/Services/Authorization/AuthorizationService.cs" Line="20" Column="1" />
-      <File FileName="Cashflow.Core/Services/User/IUserService.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Core/Services/User/UserService.cs" Line="20" Column="1" />
-      <File FileName="Cashflow.Core/Services/Expense/ExpenseService.cs" Line="24" Column="1" />
-      <File FileName="Cashflow.Core/Services/Statistic/StatisticService.cs" Line="10" Column="31" />
-      <File FileName="Cashflow.Core/Services/Database/DatabaseService.cs" Line="20" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs" Line="10" Column="34" />
-      <File FileName="Cashflow.Core/ViewModels/User/UserViewModel.cs" Line="11" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/Statistic/StatisticViewModel.cs" Line="9" Column="17" />
-      <File FileName="Cashflow.Core/ViewModels/ScanReceipt/ScanReceiptViewModel.cs" Line="9" Column="17" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/AddExpenseViewModel.cs" Line="9" Column="16" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/DetailsExpenseViewModel.cs" Line="9" Column="17" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/ExpenseViewModel.cs" Line="9" Column="31" />
-      <File FileName="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs" Line="8" Column="4" />
-      <File FileName="Cashflow.Core/ViewModels/User/RegistrationViewModel.cs" Line="10" Column="25" />
+      <File FileName="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs" Line="17" Column="1" />
+      <File FileName="Cashflow.Core/ViewModels/BaseViewModel.cs" Line="6" Column="47" />
+      <File FileName="Cashflow.Core/ViewModels/Expense/AddExpenseViewModel.cs" Line="4" Column="50" />
+      <File FileName="Cashflow.Core/ViewModels/Expense/DetailsExpenseViewModel.cs" Line="4" Column="47" />
+      <File FileName="Cashflow.Core/ViewModels/Expense/ExpenseViewModel.cs" Line="4" Column="47" />
+      <File FileName="Cashflow.Core/ViewModels/ScanReceipt/ScanReceiptViewModel.cs" Line="4" Column="51" />
+      <File FileName="Cashflow.Core/ViewModels/Statistic/StatisticViewModel.cs" Line="4" Column="49" />
+      <File FileName="Cashflow.Core/ViewModels/MainViewModel.cs" Line="4" Column="44" />
+      <File FileName="Cashflow.Core/ViewModels/User/RegistrationViewModel.cs" Line="4" Column="52" />
+      <File FileName="Cashflow.Core/ViewModels/User/SignInViewModel.cs" Line="4" Column="46" />
+      <File FileName="Cashflow.Core/ViewModels/User/UserViewModel.cs" Line="4" Column="44" />
+      <File FileName="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs" Line="4" Column="47" />
+      <File FileName="Cashflow.Core/Services/Navigation/NavigationService.cs" Line="12" Column="1" />
+      <File FileName="Cashflow.Models/User.cs" Line="5" Column="3" />
+      <File FileName="Cashflow.Models/Expense.cs" Line="5" Column="3" />
+      <File FileName="Cashflow.Models/Product.cs" Line="5" Column="3" />
+      <File FileName="Cashflow.Models/Category.cs" Line="5" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Cashflow">
+          <Node name="Cashflow" expanded="True">
             <Node name="Cashflow.Core">
-              <Node name="ViewModels">
+              <Node name="Dependencies" expanded="True" selected="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True">
                 <Node name="Category" expanded="True" />
                 <Node name="Expense" expanded="True" />
                 <Node name="ScanReceipt" expanded="True" />
                 <Node name="Statistic" expanded="True" />
-                <Node name="User">
-                  <Node name="WelcomeViewModel.cs" selected="True" />
-                </Node>
+                <Node name="User" expanded="True" />
               </Node>
             </Node>
-            <Node name="Cashflow.Models" expanded="True" />
+            <Node name="Cashflow.Models">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

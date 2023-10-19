@@ -39,4 +39,11 @@
     <Folder Include="ViewModels\Statistic\" />
     <Folder Include="ViewModels\ScanReceipt\" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cashflow.Maui\Cashflow.Maui.csproj" />
+    <ProjectReference Include="..\Cashflow.Models\Cashflow.Models.csproj" />
+  </ItemGroup>
 </Project>

@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Cashflow.Core.ViewModels
 {
-	public class ExpenseViewModel
+	public class ExpenseViewModel : BaseViewModel
 	{
 		public ExpenseViewModel()
 		{

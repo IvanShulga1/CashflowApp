@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Cashflow.Core.ViewModels
 {
-	public class ScanReceiptViewModel
+	public class ScanReceiptViewModel : BaseViewModel
 	{
 		public ScanReceiptViewModel()
 		{
