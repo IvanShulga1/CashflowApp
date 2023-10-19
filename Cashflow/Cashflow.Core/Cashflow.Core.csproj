@@ -39,8 +39,11 @@
     <Folder Include="ViewModels\Statistic\" />
     <Folder Include="ViewModels\ScanReceipt\" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\Cashflow.Maui\Cashflow.Maui.csproj" />
     <ProjectReference Include="..\Cashflow.Models\Cashflow.Models.csproj" />
   </ItemGroup>
+=======
+>>>>>>> parent of c5a49a6 (Add reference)
 </Project>

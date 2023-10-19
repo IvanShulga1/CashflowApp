@@ -3,6 +3,10 @@ namespace Cashflow.Models
 {
 	public class Expense
 	{
+		public Expense()
+		{
+		}
+
 		public int Id { get; set; }
 		public DateTime TransactionDate { get; set; }
 		public string Description { get; set; }
