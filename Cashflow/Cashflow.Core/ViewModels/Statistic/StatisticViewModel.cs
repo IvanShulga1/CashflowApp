@@ -6,7 +6,6 @@ namespace Cashflow.Core.ViewModels
 		public StatisticViewModel()
 		{
 		}
-		//Show command
 	}
 }
 

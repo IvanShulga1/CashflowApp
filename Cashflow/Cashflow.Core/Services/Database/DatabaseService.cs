@@ -6,19 +6,6 @@ namespace Cashflow.Core.Services.Database
 		public DatabaseService()
 		{
 		}
-
-		public void Add()
-		{
-
-		}
-		public void Delete()
-		{
-
-		}
-		public void Edit()
-		{
-
-		}
 	}
 }
 

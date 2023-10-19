@@ -6,19 +6,6 @@ namespace Cashflow.Core.Services.AuthorizationService
 		public AuthorizationService()
 		{
 		}
-
-		public void Registration()
-		{
-
-		}
-		public void Login()
-		{
-
-		}
-		public void Logout()
-		{
-
-		}
 	}
 }
 

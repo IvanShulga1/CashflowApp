@@ -6,8 +6,6 @@ namespace Cashflow.Core.ViewModels.User
 		public SignInViewModel()
 		{
 		}
-
-		//sign in command
 	}
 }
 

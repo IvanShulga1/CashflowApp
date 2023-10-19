@@ -6,8 +6,6 @@ namespace Cashflow.Core.ViewModels.User
 		public RegistrationViewModel()
 		{
 		}
-
-		//registration command
 	}
 }
 
