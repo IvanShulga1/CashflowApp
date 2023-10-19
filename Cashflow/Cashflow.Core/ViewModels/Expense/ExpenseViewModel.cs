@@ -6,6 +6,8 @@ namespace Cashflow.Core.ViewModels
 		public ExpenseViewModel()
 		{
 		}
-	}
+
+        //add, edit, delete commands
+    }
 }
 

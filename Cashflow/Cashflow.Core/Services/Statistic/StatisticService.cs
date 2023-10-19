@@ -6,6 +6,11 @@ namespace Cashflow.Core.Services.StatisticService
 		public StatisticService()
 		{
 		}
-	}
+
+        public void CalculateReport()
+        {
+
+        }
+    }
 }
 

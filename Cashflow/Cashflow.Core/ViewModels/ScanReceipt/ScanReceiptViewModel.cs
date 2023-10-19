@@ -6,6 +6,8 @@ namespace Cashflow.Core.ViewModels
 		public ScanReceiptViewModel()
 		{
 		}
-	}
+
+        //Scan command
+    }
 }
 
