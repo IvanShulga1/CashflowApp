@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashflow.Maui", "Cashflow.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashflow.Models", "Cashflow.Models\Cashflow.Models.csproj", "{20D74779-B4B5-4F31-A81E-BFAF4E8C276D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cashflow.Core", "Cashflow.Core\Cashflow.Core.csproj", "{D83F8674-B2E7-409F-86AF-F813C3D8DF9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{20D74779-B4B5-4F31-A81E-BFAF4E8C276D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20D74779-B4B5-4F31-A81E-BFAF4E8C276D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20D74779-B4B5-4F31-A81E-BFAF4E8C276D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D83F8674-B2E7-409F-86AF-F813C3D8DF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D83F8674-B2E7-409F-86AF-F813C3D8DF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D83F8674-B2E7-409F-86AF-F813C3D8DF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D83F8674-B2E7-409F-86AF-F813C3D8DF9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

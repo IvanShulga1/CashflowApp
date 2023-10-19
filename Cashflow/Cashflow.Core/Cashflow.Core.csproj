@@ -7,46 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="ViewModels\" />
-    <None Remove="Services\" />
-    <None Remove="Services\Statistic\" />
-    <None Remove="Services\Navigation\" />
-    <None Remove="Services\Expense\" />
-    <None Remove="Services\Database\" />
-    <None Remove="Services\Category\" />
-    <None Remove="Services\Authorization\" />
-    <None Remove="Services\User\" />
-    <None Remove="ViewModels\Expense\" />
-    <None Remove="ViewModels\User\" />
-    <None Remove="ViewModels\Category\" />
-    <None Remove="ViewModels\Statistic\" />
-    <None Remove="ViewModels\ScanReceipt\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
-    <Folder Include="Services\" />
-    <Folder Include="Services\Statistic\" />
-    <Folder Include="Services\Navigation\" />
-    <Folder Include="Services\Expense\" />
-    <Folder Include="Services\Database\" />
-    <Folder Include="Services\Category\" />
-    <Folder Include="Services\Authorization\" />
-    <Folder Include="Services\User\" />
-    <Folder Include="ViewModels\Expense\" />
-    <Folder Include="ViewModels\User\" />
-    <Folder Include="ViewModels\Category\" />
-    <Folder Include="ViewModels\Statistic\" />
-    <Folder Include="ViewModels\ScanReceipt\" />
-  </ItemGroup>
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <ItemGroup>
-    <ProjectReference Include="..\Cashflow.Maui\Cashflow.Maui.csproj" />
-    <ProjectReference Include="..\Cashflow.Models\Cashflow.Models.csproj" />
-  </ItemGroup>
-=======
->>>>>>> parent of c5a49a6 (Add reference)
-=======
->>>>>>> parent of c5a49a6 (Add reference)
 </Project>

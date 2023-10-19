@@ -33,5 +33,6 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.Cashflow.Maui PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.Cashflow.Core FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Cashflow.Models FirstBuild="True" />
 </Properties>
