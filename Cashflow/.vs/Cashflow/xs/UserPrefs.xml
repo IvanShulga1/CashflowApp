@@ -4,41 +4,39 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs">
     <Files>
-      <File FileName="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs" Line="17" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/BaseViewModel.cs" Line="6" Column="47" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/AddExpenseViewModel.cs" Line="4" Column="50" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/DetailsExpenseViewModel.cs" Line="4" Column="47" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/ExpenseViewModel.cs" Line="4" Column="47" />
-      <File FileName="Cashflow.Core/ViewModels/ScanReceipt/ScanReceiptViewModel.cs" Line="4" Column="51" />
-      <File FileName="Cashflow.Core/ViewModels/Statistic/StatisticViewModel.cs" Line="4" Column="49" />
-      <File FileName="Cashflow.Core/ViewModels/MainViewModel.cs" Line="4" Column="44" />
-      <File FileName="Cashflow.Core/ViewModels/User/RegistrationViewModel.cs" Line="4" Column="52" />
-      <File FileName="Cashflow.Core/ViewModels/User/SignInViewModel.cs" Line="4" Column="46" />
-      <File FileName="Cashflow.Core/ViewModels/User/UserViewModel.cs" Line="4" Column="44" />
-      <File FileName="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs" Line="4" Column="47" />
-      <File FileName="Cashflow.Core/Services/Navigation/NavigationService.cs" Line="12" Column="1" />
-      <File FileName="Cashflow.Models/User.cs" Line="5" Column="3" />
-      <File FileName="Cashflow.Models/Expense.cs" Line="5" Column="3" />
-      <File FileName="Cashflow.Models/Product.cs" Line="5" Column="3" />
-      <File FileName="Cashflow.Models/Category.cs" Line="5" Column="3" />
+      <File FileName="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs" Line="22" Column="1" />
+      <File FileName="Cashflow.Core/ViewModels/BaseViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/Expense/AddExpenseViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/Expense/DetailsExpenseViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/Expense/ExpenseViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/ScanReceipt/ScanReceiptViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/Statistic/StatisticViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/MainViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/User/RegistrationViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/User/SignInViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/User/UserViewModel.cs" />
+      <File FileName="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs" />
+      <File FileName="Cashflow.Core/Services/Navigation/NavigationService.cs" />
+      <File FileName="Cashflow.Models/User.cs" />
+      <File FileName="Cashflow.Models/Expense.cs" />
+      <File FileName="Cashflow.Models/Product.cs" />
+      <File FileName="Cashflow.Models/Category.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Cashflow" expanded="True">
-            <Node name="Cashflow.Core">
-              <Node name="Dependencies" expanded="True" selected="True" />
+            <Node name="Cashflow.Core" expanded="True">
               <Node name="Services" expanded="True" />
               <Node name="ViewModels" expanded="True">
-                <Node name="Category" expanded="True" />
+                <Node name="Category" expanded="True">
+                  <Node name="CategoryViewModel.cs" selected="True" />
+                </Node>
                 <Node name="Expense" expanded="True" />
                 <Node name="ScanReceipt" expanded="True" />
                 <Node name="Statistic" expanded="True" />
                 <Node name="User" expanded="True" />
               </Node>
-            </Node>
-            <Node name="Cashflow.Models">
-              <Node name="Dependencies" expanded="True" />
             </Node>
           </Node>
         </State>
