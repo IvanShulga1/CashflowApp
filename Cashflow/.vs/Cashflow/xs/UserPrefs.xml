@@ -45,15 +45,24 @@
       <File FileName="Cashflow.Core/ViewModels/Expense/ExpenseViewModel.cs" Line="9" Column="31" />
       <File FileName="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs" Line="8" Column="4" />
       <File FileName="Cashflow.Core/ViewModels/User/RegistrationViewModel.cs" Line="10" Column="25" />
+<<<<<<< HEAD
+>>>>>>> parent of c5a49a6 (Add reference)
+=======
 >>>>>>> parent of c5a49a6 (Add reference)
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
 <<<<<<< HEAD
+<<<<<<< HEAD
           <Node name="Cashflow" expanded="True">
             <Node name="Cashflow.Core" expanded="True">
               <Node name="ViewModels" expanded="True">
+=======
+          <Node name="Cashflow">
+            <Node name="Cashflow.Core">
+              <Node name="ViewModels">
+>>>>>>> parent of c5a49a6 (Add reference)
                 <Node name="Category" expanded="True" />
               </Node>
             </Node>
@@ -71,6 +80,9 @@
               </Node>
             </Node>
             <Node name="Cashflow.Models" expanded="True" />
+<<<<<<< HEAD
+>>>>>>> parent of c5a49a6 (Add reference)
+=======
 >>>>>>> parent of c5a49a6 (Add reference)
           </Node>
         </State>
