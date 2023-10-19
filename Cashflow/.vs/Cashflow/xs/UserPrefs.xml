@@ -22,15 +22,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Cashflow">
-            <Node name="Cashflow.Core" selected="True">
-              <Node name="Services" expanded="True" />
+          <Node name="Cashflow" expanded="True">
+            <Node name="Cashflow.Core" expanded="True">
               <Node name="ViewModels" expanded="True">
                 <Node name="Category" expanded="True" />
-                <Node name="Expense" expanded="True" />
-                <Node name="ScanReceipt" expanded="True" />
-                <Node name="Statistic" expanded="True" />
-                <Node name="User" expanded="True" />
               </Node>
             </Node>
           </Node>
