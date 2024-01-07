@@ -1,11 +1,14 @@
-﻿namespace Cashflow.Maui;
+﻿using Core.ViewModels;
+
+namespace Cashflow.Maui;
 
 public partial class MainPage : ContentPage
 {
 	int count = 0;
 
-	public MainPage()
+	public MainPage(MainViewModel mainViewModel)
 	{
+		BindingContext = mainViewModel;
 		InitializeComponent();
 	}
 

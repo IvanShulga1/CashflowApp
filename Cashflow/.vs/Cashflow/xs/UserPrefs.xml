@@ -1,71 +1,37 @@
 ﻿<Properties StartupConfiguration="{9E5C1910-92D1-49AF-95C4-8A52795D8584}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Cashflow.Core/ViewModels/Expense/AddExpenseViewModel.cs">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cashflow.Maui/MainPage.xaml.cs">
     <Files>
-      <File FileName="Cashflow.Core/ViewModels/Category/CategoryViewModel.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/BaseViewModel.cs" Line="2" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/AddExpenseViewModel.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/DetailsExpenseViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/Expense/ExpenseViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/ScanReceipt/ScanReceiptViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/Statistic/StatisticViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/MainViewModel.cs" Line="1" Column="1" />
-      <File FileName="Cashflow.Core/ViewModels/User/RegistrationViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/User/SignInViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/User/UserViewModel.cs" />
-      <File FileName="Cashflow.Core/ViewModels/User/WelcomeViewModel.cs" />
-      <File FileName="Cashflow.Core/Services/Navigation/NavigationService.cs" />
-      <File FileName="Cashflow.Models/User.cs" />
-      <File FileName="Cashflow.Models/Expense.cs" />
-      <File FileName="Cashflow.Models/Product.cs" />
+      <File FileName="Cashflow.Maui/MainPage.xaml" />
+      <File FileName="Cashflow.Maui/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Cashflow.Maui/View/User/UserPage.xaml" />
+      <File FileName="Cashflow.Maui/View/User/UserPage.xaml.cs" />
+      <File FileName="Cashflow.Maui/MauiProgram.cs" />
       <File FileName="Cashflow.Models/Category.cs" />
-      <File FileName="Cashflow.Core/Services/Category/CategoryService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Cashflow">
-            <Node name="Cashflow.Core">
-              <Node name="Services" expanded="True">
-                <Node name="Authorization" expanded="True" />
-                <Node name="Category" expanded="True" />
-                <Node name="Database" expanded="True" />
-                <Node name="Expense" expanded="True" />
-                <Node name="Navigation" expanded="True" />
-                <Node name="Statistic" expanded="True" />
-                <Node name="User" expanded="True" />
-              </Node>
-              <Node name="ViewModels" expanded="True">
-                <Node name="Category" expanded="True" />
-                <Node name="Expense" expanded="True">
-                  <Node name="AddExpenseViewModel.cs" selected="True" />
-                </Node>
-                <Node name="ScanReceipt" expanded="True" />
-                <Node name="Statistic" expanded="True" />
-                <Node name="User" expanded="True" />
+          <Node name="Cashflow" expanded="True">
+            <Node name="Cashflow.Maui" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
               </Node>
             </Node>
-            <Node name="Cashflow.Maui">
-              <Node name="View" expanded="True">
-                <Node name="Category" expanded="True" />
-                <Node name="Expense" expanded="True" />
-                <Node name="ScanReceipt" expanded="True" />
-                <Node name="Statistic" expanded="True" />
-                <Node name="User" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="Core" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <DisabledProjects>
+    <String>Cashflow.Core/Cashflow.Core.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Cashflow.Maui PreferredExecutionTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.ItemProperties.Cashflow.Core FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Cashflow.Models FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
